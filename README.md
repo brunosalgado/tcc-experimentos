@@ -8,3 +8,5 @@ Os experimentos podem ser analisados direto pelo GitHub, mas caso seja necessár
 - scikit-learn v0.23.1: https://scikit-learn.org/stable/install.html
 - Jupyter v6.0.1: https://jupyter.org/install
 - NLTK v3.5: https://www.nltk.org/install
+
+Rodas os experimentos pelo Jupyter Notebook
